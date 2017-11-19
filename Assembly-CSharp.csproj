@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{BF38E9C6-6F6C-CF27-7DB8-ADCA7747868F}</ProjectGuid>
+    <ProjectGuid>{F58A8C27-1E47-D9B7-FB0A-935DFE17A41E}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -64,7 +64,6 @@
      <Compile Include="Assets\FishInfoShow2.cs" />
      <Compile Include="Assets\Liquid_V1\Example\GuiExample.cs" />
      <Compile Include="Assets\Liquid_V1\Plugins\HTLiquidSpriteSheet.cs" />
-     <Compile Include="Assets\manager.cs" />
      <Compile Include="Assets\SAMPLE-SCENE\Standard Assets\Camera Scripts\MouseLook.cs" />
      <Compile Include="Assets\SAMPLE-SCENE\Underwater\Scripts\graphics\Underwater.cs" />
      <Compile Include="Assets\SAMPLE-SCENE\Underwater\Scripts\graphics\UnderwaterEffect.cs" />
@@ -76,6 +75,7 @@
      <Compile Include="Assets\Scripts\Final&apos;s Scripts\FishInfoClass.cs" />
      <Compile Include="Assets\Scripts\Final&apos;s Scripts\FishInfoShow.cs" />
      <Compile Include="Assets\Scripts\Final&apos;s Scripts\GameSetting.cs" />
+     <Compile Include="Assets\Scripts\Final&apos;s Scripts\manager.cs" />
      <Compile Include="Assets\Scripts\Final&apos;s Scripts\MovingText.cs" />
      <Compile Include="Assets\Scripts\Final&apos;s Scripts\Transparent.cs" />
      <Compile Include="Assets\Scripts\Fish2.cs" />

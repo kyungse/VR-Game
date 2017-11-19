@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{F674DBDD-1D89-D303-1764-3A589813D42A}</ProjectGuid>
+    <ProjectGuid>{D20696F2-C692-D73B-532D-7538CF42DC05}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-UnityScript</AssemblyName>
