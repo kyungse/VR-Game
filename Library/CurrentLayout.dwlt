@@ -45,7 +45,7 @@ MonoBehaviour:
   m_MinSize: {x: 481, y: 221}
   m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
-  controlID: 101
+  controlID: 72
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -282,7 +282,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 442}
   m_MaxSize: {x: 4002, y: 8042}
   vertical: 1
-  controlID: 26
+  controlID: 50
 --- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -399,19 +399,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Scripts/Final's Scripts
+    - Assets/Scenes
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scripts/Final's Scripts
+  - Assets/Scenes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: "/Users/p.kyungse/Desktop/\u110C\u1169\u11AF\u110B\u1165\u11B8\u1111\u1173\u1105\u1169\u110C\u1166\u11A8\u1110\u1173/VR-Game"
   m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 144}
-    m_SelectedIDs: 40290000
-    m_LastClickedID: 10560
-    m_ExpandedIDs: 000000008c2700005a280000a8280000e43400001c3e00004e430000925000006456000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 116}
+    m_SelectedIDs: ec500000
+    m_LastClickedID: 20716
+    m_ExpandedIDs: 000000008c2700005a280000a8280000e43400001c3e0000925000006456000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -554,21 +554,21 @@ MonoBehaviour:
     width: 225
     height: 356
   m_TreeViewState:
-    scrollPos: {x: 0, y: 1101}
-    m_SelectedIDs: 
-    m_LastClickedID: 0
-    m_ExpandedIDs: 8487ffff4c88ffff92f9ffffa6fbffff00000000d26f0000
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 58400100
+    m_LastClickedID: 82008
+    m_ExpandedIDs: 26adffff3aadfffff0adffffbccafffffeddffff88eeffff8aeeffff52efffffa6fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Yellow_Fish_09 (1)
-      m_OriginalName: Yellow_Fish_09 (1)
+      m_Name: Yellow_Fish_07
+      m_OriginalName: Yellow_Fish_07
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: -1674
+      m_UserData: -21210
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
       m_OriginalEventType: 0
@@ -607,14 +607,14 @@ MonoBehaviour:
     width: 745
     height: 358
   m_SceneLighting: 1
-  lastFramingTime: 2511.9704020023346
+  lastFramingTime: 160.69896495342255
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -31.029285, y: 2.3526185, z: 43.739487}
+    m_Target: {x: -45.438374, y: 1.1158092, z: 42.73576}
     speed: 2
-    m_Value: {x: -31.029285, y: 2.3526185, z: 43.739487}
+    m_Value: {x: -45.438374, y: 1.1158092, z: 42.73576}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -637,13 +637,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0, y: 1, z: 0, w: 0}
+    m_Target: {x: 0, y: 0, z: 0, w: 1}
     speed: 2
-    m_Value: {x: 0, y: 0.99999994, z: 0, w: 0}
+    m_Value: {x: 0, y: 0, z: 0, w: -0.99999994}
   m_Size:
-    m_Target: 5.711447
+    m_Target: 5.183624
     speed: 2
-    m_Value: 5.711447
+    m_Value: 5.183624
   m_Ortho:
     m_Target: 0
     speed: 2

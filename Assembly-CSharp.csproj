@@ -62,6 +62,7 @@
      <Compile Include="Assets\Arkham Interactive\Toony\Skies\Scripts\Levelloader.cs" />
      <Compile Include="Assets\Arkham Interactive\Toony\Skies\Scripts\MouseLook2222.cs" />
      <Compile Include="Assets\FishInfoShow2.cs" />
+     <Compile Include="Assets\gamesetting.cs" />
      <Compile Include="Assets\Liquid_V1\Example\GuiExample.cs" />
      <Compile Include="Assets\Liquid_V1\Plugins\HTLiquidSpriteSheet.cs" />
      <Compile Include="Assets\SAMPLE-SCENE\Standard Assets\Camera Scripts\MouseLook.cs" />
