@@ -78,6 +78,7 @@
      <Compile Include="Assets\Scripts\Final&apos;s Scripts\GameSetting.cs" />
      <Compile Include="Assets\Scripts\Final&apos;s Scripts\manager.cs" />
      <Compile Include="Assets\Scripts\Final&apos;s Scripts\MovingText.cs" />
+     <Compile Include="Assets\Scripts\Final&apos;s Scripts\temp.cs" />
      <Compile Include="Assets\Scripts\Final&apos;s Scripts\Transparent.cs" />
      <Compile Include="Assets\Scripts\Fish2.cs" />
      <Compile Include="Assets\Scripts\Fish3.cs" />

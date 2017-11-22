@@ -28,6 +28,12 @@ TagManager:
   - 13
   - 14
   - Exit
+  - Yellow07
+  - Yellow04
+  - Yellow09
+  - Yellow05
+  - Red
+  - movie
   layers:
   - Default
   - TransparentFX
